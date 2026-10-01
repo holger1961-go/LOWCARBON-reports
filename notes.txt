@@ -1,0 +1,13 @@
+
+
+260726 >>>:
+EASY START CONFIGURATION:
+unter
+    C:\Users\HG396236\AppData\Roaming\Code\User
+liegen
+    keybindings.json
+    tasks.json
+
+zum START der Routine mit
+    Strg + Shift + S
+>>> 260726 Ende

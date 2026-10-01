@@ -1,0 +1,3 @@
+config_black.py
+__pycache__/
+*.py[cod]
