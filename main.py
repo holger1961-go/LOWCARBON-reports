@@ -1,12 +1,7 @@
+from .utils.logging_setup import logger
 from .pipeline.steps import Pipeline
 
-if False:
-    mode = input(
-        "\nN = Neue Site-Liste erzeugen\n"
-        "M = Markierte Sites auswerten\n\n"
-        "Auswahl: "
-    ).strip().upper()
-else:
-    mode = "M"
 
-Pipeline().run(mode)
+logger.info("MAIN")
+
+Pipeline().run("N")

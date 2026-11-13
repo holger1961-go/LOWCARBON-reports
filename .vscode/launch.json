@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run SITEMARK pipeline",
+            "name": "Run LOWCARBON pipeline",
             "type": "python",
             "request": "launch",
-            "module": "SITEMARK-reports.main",
+            "module": "LOWCARBON-reports.main",
             "cwd": "${workspaceFolder}/.."
         }
     ]
